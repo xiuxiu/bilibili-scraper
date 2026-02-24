@@ -1,5 +1,7 @@
 # Bilibili视频详情页HTML逆向采集
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 直接请求Bilibili视频页面HTML，解析关键信息。
 
 ## 安装依赖
